@@ -1,1 +1,1 @@
-# number_theory_py
+# Python code for Number theory
